@@ -37,6 +37,8 @@ p {
   line-height: 1.3em;
   text-align: left;
   width: 100%;
+  font-size: 18px;
+  font-family: Helvetica;
 }
 
 .byline {
